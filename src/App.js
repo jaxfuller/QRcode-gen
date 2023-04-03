@@ -28,7 +28,7 @@ function App() {
         <div className="gen">
           <input type="text" onChange={
             (e) => {setTemp(e.target.value)}}
-            placeholder="Enter Linked to Convert" />
+            placeholder="Enter Link to Convert" />
           <button className="button" 
             onClick={handleClick}>
             Generate

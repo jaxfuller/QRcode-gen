@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+This is a QR code generator using react and the "create-qr-code" API. Inspired by project tutorial on geeks for geeks.
+
+Input any link (or word, phrase, etc) and then it generates a downloadable QR code with adjustable size, foreground color, and background color.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
